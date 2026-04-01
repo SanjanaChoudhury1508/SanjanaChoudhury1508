@@ -37,14 +37,14 @@ I’m a passionate developer who loves building meaningful digital experiences. 
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanjanaChoudhury1508&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SanjanaChoudhury1508&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
 
 ## 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SanjanaChoudhury1508&theme=onedark&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SanjanaChoudhury1508&theme=onedark&no-frame=true&margin-w=10&row=1" />
 </p>
 
 ---
