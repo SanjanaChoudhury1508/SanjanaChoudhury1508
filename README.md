@@ -49,8 +49,7 @@ I’m a passionate developer who loves building meaningful digital experiences. 
 
 ---
 
-## 🚀 Goals for 2026
-- 🌟 Contribute to open-source projects  
+## 🚀 Goals for 2026  
 - 🧠 Master DSA & system design  
 - 🤖 Build AI-powered web applications   
 
