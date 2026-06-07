@@ -1,15 +1,14 @@
 # 👋 Hi, I'm Sanjana Choudhury
 
-### 💻 Full-Stack Web Developer | 🌱 Open Source Enthusiast | 🤖 AI/ML Learner  
+### 💻 Full-Stack Web Developer | 🤖 AI/ML Learner  
 
-I’m a passionate developer who loves building meaningful digital experiences. With a strong foundation in the **MERN Stack**, I enjoy creating scalable web applications and contributing to open source.  
+I’m a passionate developer who loves building meaningful digital experiences. With a strong foundation in the **MERN Stack**, I enjoy creating scalable web applications.
 
 🚀 Currently exploring the intersection of **Web Development + AI/ML** to build smarter solutions.
 
 ---
 
 ## 🔭 What I'm Working On
-- 🌍 Contributing to **open source projects**
 - 🧩 Building **full-stack MERN applications**
 - 💡 Experimenting with new tools, frameworks, and ideas  
 
