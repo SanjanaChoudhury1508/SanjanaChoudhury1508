@@ -34,13 +34,6 @@ I’m a passionate developer who loves building meaningful digital experiences. 
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SanjanaChoudhury1508" />
-</p>
-
----
-
 ## 🚀 Goals for 2026  
 - 🧠 Master DSA & system design  
 - 🤖 Build AI-powered web applications   
